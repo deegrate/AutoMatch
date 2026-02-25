@@ -1,0 +1,35 @@
+{
+  "raw": {
+    "product_url": "https://bags.qiqiyg.com/productinfoen_655729.html?path=0_37771_44188",
+    "category_id": "44188",
+    "internal_id": "655729",
+    "title": "Marc Jacobs jy (64)",
+    "description": "Marc Jacobs jy (64)",
+    "price": null,
+    "image_urls": [
+      "https://bags.qiqiyg.com/upfile/images/logo_1.jpg",
+      "https://pic.qiqi2000.com/upfile/product/202204/Marc%20Jacobs%20jy%20(61)_655726.png",
+      "https://pic.qiqi2000.com/upfile/product/202204/Marc%20Jacobs%20jy%20(62)_655727.png",
+      "https://pic.qiqi2000.com/upfile/product/202204/Marc%20Jacobs%20jy%20(63)_655728.png",
+      "https://pic.qiqi2000.com/upfile/product/202204/Marc%20Jacobs%20jy%20(64)_655729.png",
+      "https://pic.qiqi2000.com/upfile/product/202204/Marc%20Jacobs%20jy%20(65)_655730.png"
+    ],
+    "scraped_at": "2026-02-25T17:42:54.812762",
+    "product_internal_id": "655729"
+  },
+  "inference": {
+    "product_internal_id": "655729",
+    "inferred_brand": "Marc Jacobs",
+    "inferred_category": "Handbag",
+    "inferred_product_name": "Marc Jacobs 'jy (64)' Handbag",
+    "search_queries": [
+      "Marc Jacobs jy (64) handbag",
+      "Marc Jacobs 'jy' style bag",
+      "Marc Jacobs (64) collection bag",
+      "Marc Jacobs women's handbag",
+      "Marc Jacobs shoulder bag",
+      "Marc Jacobs bags official"
+    ],
+    "notes": "The brand is directly stated in the title. The category is inferred from the 'bags' in the product URL. The product name incorporates the unique identifier 'jy (64)' from the title and image filenames."
+  }
+}

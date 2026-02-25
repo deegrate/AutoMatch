@@ -1,0 +1,34 @@
+{
+  "raw": {
+    "product_url": "https://bags.qiqiyg.com/productinfoen_655730.html?path=0_37771_44188",
+    "category_id": "44188",
+    "internal_id": "655730",
+    "title": "Marc Jacobs jy (65)",
+    "description": "Marc Jacobs jy (65)",
+    "price": null,
+    "image_urls": [
+      "https://bags.qiqiyg.com/upfile/images/logo_1.jpg",
+      "https://pic.qiqi2000.com/upfile/product/202204/Marc%20Jacobs%20jy%20(61)_655726.png",
+      "https://pic.qiqi2000.com/upfile/product/202204/Marc%20Jacobs%20jy%20(62)_655727.png",
+      "https://pic.qiqi2000.com/upfile/product/202204/Marc%20Jacobs%20jy%20(63)_655728.png",
+      "https://pic.qiqi2000.com/upfile/product/202204/Marc%20Jacobs%20jy%20(64)_655729.png",
+      "https://pic.qiqi2000.com/upfile/product/202204/Marc%20Jacobs%20jy%20(65)_655730.png"
+    ],
+    "scraped_at": "2026-02-25T17:42:40.733476",
+    "product_internal_id": "655730"
+  },
+  "inference": {
+    "product_internal_id": "655730",
+    "inferred_brand": "Marc Jacobs",
+    "inferred_category": "Handbag",
+    "inferred_product_name": "Marc Jacobs JY 65 Handbag",
+    "search_queries": [
+      "Marc Jacobs JY 65 Handbag",
+      "Marc Jacobs women's bags",
+      "Marc Jacobs new collection handbags",
+      "Marc Jacobs designer crossbody bag",
+      "Official Marc Jacobs handbags"
+    ],
+    "notes": "Inference relies solely on the provided text fields as no product images were available. 'jy (65)' appears to be an internal product identifier. The category 'Handbag' is inferred from the product URL domain."
+  }
+}
