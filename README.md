@@ -26,11 +26,11 @@
 AutoMatch is built as a **four-agent pipeline**, each agent specializing in one step of the matching workflow:
 
 ```
-┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-│   Agent A   │───▶│   Agent B   │───▶│   Agent C   │───▶│   Agent D   │
-│  Scraper &  │    │  Vision &   │    │  Search &   │    │   Export    │
-│ Normalizer  │    │ Query Gen   │    │   Matcher   │    │  Engineer   │
-└─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│   Agent A   │───▶│   Agent B    │───▶│   Agent C   │───▶│   Agent D   │
+│  Scraper &  │     │  Vision &   │     │  Search &   │     │   Export    │
+│ Normalizer  │     │ Query Gen   │     │   Matcher   │     │  Engineer   │
+└─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
     discover.py        agent_b.py        agent_c.py        agent_d.py
     scraper.py                                         inventory_export.csv
 ```
